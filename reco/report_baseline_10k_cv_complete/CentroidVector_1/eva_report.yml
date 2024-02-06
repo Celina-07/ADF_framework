@@ -1,0 +1,24 @@
+n_split: 1
+metrics:
+  PrecisionAtK:
+    k: 10
+    relevant_threshold: null
+    sys_average: macro
+    precision: <class 'numpy.float64'>
+  FMeasureAtK:
+    k: 10
+    beta: 1
+    relevant_threshold: null
+    sys_average: macro
+    precision: <class 'numpy.float64'>
+  NDCGAtK:
+    k: 10
+sys_results:
+  sys - fold1:
+    Precision@10 - macro: 0.2471463888888889
+    F1@10 - macro: 0.25031141360122594
+    NDCG@10: 0.3465875420942551
+  sys - mean:
+    Precision@10 - macro: 0.2471463888888889
+    F1@10 - macro: 0.25031141360122594
+    NDCG@10: 0.3465875420942551
