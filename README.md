@@ -1,7 +1,5 @@
 # ADF_framework
 
-Code of the paper "Beyond Trade-offs: Unveiling Fairness-Constrained Diversity in News Recommender Systems", submitted to UMAP'24.
-
 The different steps are the following:
 
 ![ADF_workflow](workflow.png)
