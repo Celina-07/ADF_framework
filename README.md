@@ -1,8 +1,10 @@
 # ADF_framework
 
-The different steps are the following:
+ADF is a novel news recommendation framework, intended to provide fair, diverse, and accurate recommendations. ADF is thus designed to promote users' awareness, through diversity, while not orienting users' main interests or opinions, through fairness. This repository contains the code to run the proposed framework on the MIND and Adressa datasets.
 
-![ADF_workflow](workflow.pdf)
+The different steps of ADF are the following:
+
+![ADF_workflow](workflow.jpg)
 
 
 Here is the organization of the code:
